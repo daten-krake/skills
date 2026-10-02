@@ -1,0 +1,3 @@
+# Project-local skill installs (created by ./install.sh --project)
+.claude/skills/
+.opencode/skills/
